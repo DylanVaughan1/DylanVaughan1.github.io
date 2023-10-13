@@ -1,4 +1,5 @@
 header nav{
+    box-sizing: border-box;
 border: 15px;
 color: blue;
 }
