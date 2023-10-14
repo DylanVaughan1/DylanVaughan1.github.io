@@ -14,7 +14,11 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
-aside{
-    float: left;
+aside ol{
+    list-style: upper-roman;
+
+}
+aside ul{
+    list-style: square;
 }
 
