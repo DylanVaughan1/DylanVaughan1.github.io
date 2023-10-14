@@ -37,12 +37,6 @@ article h2{
     font-size: 130%;
     color: blue;
 }
-article p{
-    float: right;
-}
-article img{
-    position: fixed;
-}
 article p::first-letter {
 	font-size: 3em;
 	font-weight: bold;
