@@ -48,3 +48,12 @@ aside ol{
 aside ul{
     list-style: square;
 }
+footer {
+	clear: both;
+	border-top: 2px;
+    color: blue;
+}
+footer p.copyright {
+	text-align: center;
+	font-size: 80%;
+}
