@@ -39,7 +39,7 @@ article h2{
     text-indent: 30px;
 }
 article p{
-    text-wrap: initial;
+    text-align: right;
 }
 aside{
     box-sizing: border-box;
