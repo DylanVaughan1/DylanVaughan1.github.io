@@ -39,7 +39,8 @@ article h2{
     text-indent: 30px;
 }
 article p{
-    text-wrap: stable;
+    margin: 0;
+    padding: 0; 
 }
 article p::first-letter {
 	font-size: 3em;
