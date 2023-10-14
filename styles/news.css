@@ -16,7 +16,7 @@
 
 article {
 	clear: both;
-    width: 70%;
+    width: 75%;
     float: left;
     column-count: 3;
     column-rule: 2px dotted blue;
@@ -45,6 +45,7 @@ aside{
     box-sizing: border-box;
     box-shadow: blue;
     float: right;
+    width: 20%;
 }
 aside ol{
     list-style: upper-roman;
