@@ -50,7 +50,8 @@ aside {
 	padding: 0.1em 1em 1em;
 	background-color: turquoise;
     position: fixed;
-
+    border:  2px;
+    border-color: blueviolet;
 }
 aside ol{
     list-style: upper-roman;
