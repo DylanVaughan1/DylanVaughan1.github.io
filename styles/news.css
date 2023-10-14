@@ -38,6 +38,10 @@ article h2{
     color: blue;
     text-indent: 30px;
 }
+aside{
+    box-sizing: border-box;
+    box-shadow: blue;
+}
 aside ol{
     list-style: upper-roman;
 }
