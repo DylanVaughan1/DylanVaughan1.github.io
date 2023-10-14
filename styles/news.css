@@ -51,6 +51,7 @@ aside {
 	float: right;
 	padding: 0.1em 1em 1em;
 	background-color: turquoise;
+    position: fixed;
 }
 aside ol{
     list-style: upper-roman;
