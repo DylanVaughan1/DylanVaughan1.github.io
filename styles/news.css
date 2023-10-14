@@ -38,6 +38,9 @@ article h2{
     color: blue;
     text-indent: 30px;
 }
+article p{
+    text-wrap: initial;
+}
 aside{
     box-sizing: border-box;
     box-shadow: blue;
