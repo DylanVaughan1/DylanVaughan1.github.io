@@ -39,7 +39,7 @@ article h2{
     text-indent: 30px;
 }
 article p{
-    text-align: right;
+    text-wrap: stable;
 }
 article p::first-letter {
 	font-size: 3em;
