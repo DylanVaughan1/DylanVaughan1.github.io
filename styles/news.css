@@ -31,12 +31,10 @@ header {
 article h1{
     font-size: 130%;
     color: blue;
-    text-indent: 30px;
 }
 article h2{
     font-size: 130%;
     color: blue;
-    text-indent: 30px;
 }
 article p{
     float: right;
