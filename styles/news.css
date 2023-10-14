@@ -23,4 +23,8 @@ article {
     column-gap: 2em;
     margin-left: 2em; 
 }
+header {
+	padding-bottom: 2em;
+    border-bottom: 2px solid #800000;
+}
 
