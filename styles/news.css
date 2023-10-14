@@ -40,7 +40,7 @@ article p{
     float: right;
 }
 article img{
-    float: left;
+    position: fixed;
 }
 article p::first-letter {
 	font-size: 3em;
