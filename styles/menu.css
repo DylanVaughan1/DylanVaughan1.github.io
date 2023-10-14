@@ -14,28 +14,5 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
-article {
-	clear: both;
-    width: 70%;
-    float: left;
-    column-count: 3;
-    column-rule: 2px dotted maroon;
-    column-gap: 2em;
-    margin-left: 2em; 
-}
 
-header {
-	padding-bottom: 2em;
-    border-bottom: 3px solid blue
-}
-article h1{
-    font-size: 130%;
-    color: blue;
-    text-indent: 30px;
-}
-article h2{
-    font-size: 130%;
-    color: blue;
-    text-indent: 30px;
-}
 
