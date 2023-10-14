@@ -46,12 +46,13 @@ article p::first-letter {
 	font-weight: bold;
 	font-style: italic;
 }
-aside{
-    box-sizing: border-box;
-    box-shadow: blue;
-    float: right;
-    width: 20%;
+aside {
+	width: 20%;
+	float: right;
+	padding: 0.1em 1em 1em;
+	background-color: #ffebc6;
 }
+foo
 aside ol{
     list-style: upper-roman;
 }
