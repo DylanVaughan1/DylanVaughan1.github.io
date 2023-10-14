@@ -51,6 +51,7 @@ aside {
 	background-color: turquoise;
     position: fixed;
     right: 0;
+    vertical-align: middle;
     border:  2px;
     border-color: blueviolet;
 }
