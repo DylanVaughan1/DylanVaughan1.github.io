@@ -24,9 +24,8 @@ article {
     margin-left: 2em; 
 }
 
-header{
-    border-top: 15px;
-    color: blue;
-    
+header {
+	padding-bottom: 2em;
+    border-bottom: 2px solid #800000;
 }
 
