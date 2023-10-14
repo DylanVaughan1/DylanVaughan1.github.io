@@ -41,6 +41,11 @@ article h2{
 article p{
     text-align: right;
 }
+article p::first-letter {
+	font-size: 3em;
+	font-weight: bold;
+	font-style: italic;
+}
 aside{
     box-sizing: border-box;
     box-shadow: blue;
