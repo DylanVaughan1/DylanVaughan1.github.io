@@ -40,6 +40,9 @@ article h2{
 article img{
     float: left;
 }
+article p{
+    text-align: left;
+}
 article p::first-letter {
 	font-size: 3em;
 	font-weight: bold;
