@@ -29,6 +29,8 @@ header {
     border-bottom: 3px solid blue
 }
 article h2{
+    font-size: 130%;
     color: blue;
+    text-indent: 30px;
 }
 
