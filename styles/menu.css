@@ -28,4 +28,7 @@ header {
 	padding-bottom: 2em;
     border-bottom: 3px solid blue
 }
+article h2{
+    color: blue;
+}
 
