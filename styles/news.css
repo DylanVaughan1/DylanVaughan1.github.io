@@ -38,4 +38,9 @@ article h2{
     color: blue;
     text-indent: 30px;
 }
-
+aside ol{
+    list-style: upper-roman;
+}
+aside ul{
+    list-style: square;
+}
