@@ -39,7 +39,7 @@ article h2{
 }
 article img{
     float: left;
-    padding-right: 1em;
+    padding: 1em 0;
 }
 article p{
     text-align: left;
