@@ -68,7 +68,7 @@ article p::first-letter {
 aside {
 	width: 20%;
 	padding: 0.1em 1em 1em;
-	background-color: turquoise;
+	background-color: lightblue;
     position: fixed;
     right: 0;
     top: 200px;
