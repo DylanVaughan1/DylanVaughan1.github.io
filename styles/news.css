@@ -84,6 +84,7 @@ aside ul{
 footer {
 	border-top: 3px;
     color: blue;
+    border-style: solid;
 }
 footer p.copyright {
 	text-align: center;
