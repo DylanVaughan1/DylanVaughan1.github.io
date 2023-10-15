@@ -44,7 +44,7 @@ header {
 	padding-bottom: 2em;
     border-bottom: 3px solid blue
 }
-article h1{
+header h1{
     font-size: 130%;
     color: blue;
     left: 0;
