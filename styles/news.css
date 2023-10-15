@@ -1,3 +1,7 @@
+html{
+    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
+
+}
 #nav_news ul { list-style-type: none; }
 #nav_news ul li { float: left; }
 #nav_news ul li a {
@@ -18,7 +22,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
 	width: 95%;
-	background-color: lightblue;
+	background-color: white;
 	margin: 15px auto;
 	padding: 15px 1.5em;
 	border: 1px solid black;
