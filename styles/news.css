@@ -83,7 +83,7 @@ aside ul{
 }
 footer {
 	clear: both;
-	border-top: 3px;
+	border-top: solid 3px;
     color: blue;
 }
 footer p.copyright {
