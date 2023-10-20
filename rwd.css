@@ -121,7 +121,7 @@ html, body {
         width: 100%;
         color: white;
         background-color: #222;
-        list-style: circle;
+        list-style: square;
     }
     .menu > li:not(:last-child) {
         border-bottom: 1px solid #444;
