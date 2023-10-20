@@ -95,7 +95,7 @@ html, body {
         top: 0;
         margin-top: 50px;
         left: 0;
-        flex-direction: column;
+        flex-direction: row;
         width: 100%;
         justify-content: center;
         align-items: center;
