@@ -10,7 +10,7 @@ html, body {
     }
     
     /*---------------------------------------------------------------*/
-    .top-nav {
+    body .top-nav {
     display: flex;
     flex-direction: row;
     align-items: center;
