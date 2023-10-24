@@ -108,6 +108,7 @@ html, body {
         margin: auto;
         display: block;
         width: 100%;
+        max-width: 760px;
     }
     footer {
         clear: both;
