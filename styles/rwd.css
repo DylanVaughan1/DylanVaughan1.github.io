@@ -103,7 +103,7 @@ html, body {
     article p{
         font-size: 1em;
     }
-    
+
     .menu-button-container {
         display: flex;
     }
@@ -144,6 +144,8 @@ html, body {
     }
     footer {
         clear: both;
-        border-top: solid 3px;
-        color: orange;
+        border-top: solid 2px;
+        color: #f46b45;
+        text-align: center;
+        font-size: .8em;
     }
