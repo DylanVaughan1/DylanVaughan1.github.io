@@ -52,4 +52,5 @@ html, body {
     }
     table.third tbody{
         vertical-align: top;
+        padding: 1em;
     }
