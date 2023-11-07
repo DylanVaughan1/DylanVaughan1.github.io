@@ -35,7 +35,7 @@ html, body {
         border-bottom: 2px solid purple;
     }
     table.third thead tr:first-child,table.third thead tr:nth-child(odd),table.third tr:last-child {
-        background-color: lightgreen;
+        border-top: 2px solid orangered;
     }
 
     table.third tbody{
