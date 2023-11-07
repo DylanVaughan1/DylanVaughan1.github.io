@@ -40,6 +40,10 @@ html, body {
     table.third thead tr:first-child,table.third thead tr:nth-child(odd),table.third tr:last-child {
         border-top: 2px solid orangered;
     }
+    table.third th{
+        border-left: 2px solid lightgreen;
+        border-right: 2px solid lightgreen;
+    }
 
     table.third tbody{
         vertical-align: top;
