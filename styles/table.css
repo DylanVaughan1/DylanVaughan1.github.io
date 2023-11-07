@@ -34,10 +34,11 @@ html, body {
     table.second thead tr:first-child{     
         border-bottom: 2px solid purple;
     }
-    table.third caption,table.third th{
+
+
+    table.third th{
         background-color: lightgreen;
-        border-left: 2px solid red;
-        border-right: 2px solid red;
+
     }
     table.third thead tr:first-child,table.third thead tr:nth-child(odd),table.third tr:last-child {
         border-top: 2px solid orangered;
