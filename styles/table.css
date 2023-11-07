@@ -41,9 +41,10 @@ html, body {
         vertical-align: top;
     
     }
-    table.third th{
+    table.third th {
         border-bottom: 2px solid orange;
         background-color: lightgreen;
+        padding: 0px;
         
     }
     table.third caption{
