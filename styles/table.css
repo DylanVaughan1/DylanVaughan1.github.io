@@ -34,10 +34,7 @@ html, body {
     table.second thead tr:first-child{     
         border-bottom: 2px solid purple;
     }
-    table.third thead{
-        background-color: lightgreen;
-    }
-    table.third caption{
+    table.third caption,thead{
         background-color: lightgreen;
     }
     table.third thead tr:first-child,table.third thead tr:nth-child(odd),table.third tr:last-child {
