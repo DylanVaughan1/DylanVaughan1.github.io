@@ -44,9 +44,10 @@ table.third{
     table.third th{
     background-color: lightgreen;
     border-bottom: 2px solid orangered;
+    padding: 0.7em;  
 }
     
     table.third tbody{
         vertical-align: top;
-        padding: .7em;
+        padding: 0.7em;
 }
