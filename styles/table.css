@@ -35,9 +35,11 @@ html, body {
         border-bottom: 2px solid purple;
     }
 
-
+table.third{
+    border-collapse: collapse; 
+    border-bottom: 2px solid orangered;
+}
     table.third th{
-        border-collapse: collapse; 
         background-color: lightgreen;
 
     }
