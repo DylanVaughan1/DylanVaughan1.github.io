@@ -40,7 +40,7 @@ html, body {
         border-bottom: 2px solid orange;
         vertical-align: top;
     }
-    table.third caption{
+    table.third thead th{
         border-top: 2px solid orange;
         border-bottom: 2px solid orange;
         background-color: lightgreen;        
