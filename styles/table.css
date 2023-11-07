@@ -39,15 +39,14 @@ table.third{
     border-collapse: collapse; 
     border-bottom: 2px solid orangered;
     border-top: 2px solid orangered;
+    padding: 0.7em;  
 }
     table.third th{
     background-color: lightgreen;
     border-bottom: 2px solid orangered;
-
-
-    }
+}
     
     table.third tbody{
         vertical-align: top;
-        padding: 1em;
-    }
+        padding: .7em;
+}
