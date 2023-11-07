@@ -39,15 +39,8 @@ html, body {
         border-top: 2px solid orange;
         border-bottom: 2px solid orange;
         vertical-align: top;
-    
     }
-    table.third th {
+    table.third thead {
         border-bottom: 2px solid orange;
-        background-color: lightgreen;
-        padding: 0px;
-        
-    }
-    table.third caption{
-        border-top: 2px solid orange;
-        background-color: lightgreen;
+        background-color: lightgreen;        
     }
