@@ -40,12 +40,10 @@ html, body {
         border-bottom: 2px solid orange;
         vertical-align: top;
     }
-    table.third thead{
-        background-color: lightgreen;
-    }
     table.third thead th{
         border-top: 2px solid orange;
-        border-bottom: 2px solid orange;       
+        border-bottom: 2px solid orange;
+        background-color: lightgreen;       
     }
     table.third thead caption{
         border-top: 2px solid orange;
