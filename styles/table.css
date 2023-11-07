@@ -44,9 +44,9 @@ html, body {
         background-color: lightgreen;
         border-bottom: 2px solid orange;
     }
-    table.third thead th{
-        border-top: 2px solid orange;
-        border-bottom: 2px solid orange;
+    table.third thead tr :first-child{
+        border-top: 2px solid orangered;
+        border-bottom: 2px solid orangered;
         background-color: lightgreen;       
     }
     table.third thead caption{
