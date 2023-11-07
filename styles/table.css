@@ -41,6 +41,7 @@ html, body {
         vertical-align: top;
     }
     table.third thead {
+        border-top: 2px solid orange;
         border-bottom: 2px solid orange;
         background-color: lightgreen;        
     }
