@@ -39,7 +39,7 @@ html, body {
         background-color: lightgreen;
         border-bottom: 2px solid orangered;
     }
-    table.third thead tr:nth-child(2)
+    table.third thead tr:nth-child()
     {
         background-color: lightgreen;
         border-bottom: 2px solid orangered;
