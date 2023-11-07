@@ -50,7 +50,7 @@ html, body {
         background-color: lightgreen;       
     }
     table.third thead caption{
-        border-top: 2px solid orange;
+        border-top: 2px solid orangered;
     }
     table.third tbody{
         vertical-align: top;
