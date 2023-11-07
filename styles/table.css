@@ -38,9 +38,11 @@ html, body {
     table.third {
         border-top: 2px solid orange;
         border-bottom: 2px solid orange;
+        background-color: lightgreen;
     }
     table.third th{
         border-bottom: 2px solid orange;
+        background-color: lightgreen;
     }table.third caption{
         border-top: 2px solid orange;
     }
