@@ -35,11 +35,6 @@ html, body {
         border-bottom: 2px solid purple;
     }
     
-    table.third {
-        border-top: 2px solid orange;
-        border-bottom: 2px solid orange;
-        vertical-align: top;
-    }
     table.third thead{
         background-color: lightgreen;
         border-bottom: 2px solid orange;
