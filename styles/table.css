@@ -35,3 +35,7 @@ html, body {
         border-bottom: 2px solid purple;
     }
     
+    table.third {
+        border-top: solid orange;
+        border-bottom: solid orange;
+    }
