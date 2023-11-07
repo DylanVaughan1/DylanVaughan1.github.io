@@ -47,7 +47,7 @@ table.third{
     padding: 0.7em;  
 }
     
-    table.third tbody{
+    table.third tr{
         vertical-align: top;
         padding: 0.7em;
 }
