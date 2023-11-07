@@ -36,7 +36,7 @@ html, body {
     }
     
     table.third thead{
-        background-color: blue;
+        background-color: lightgreen;
         border-top: 2px solid orangered;
     }
     table.third tbody{
