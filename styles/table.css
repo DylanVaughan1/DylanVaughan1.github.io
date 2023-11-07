@@ -36,6 +36,6 @@ html, body {
     }
     
     table.third {
-        border-top: solid orange;
-        border-bottom: solid orange;
+        border-top: 2px solid orange;
+        border-bottom: 2px solid orange;
     }
