@@ -34,9 +34,10 @@ html, body {
     table.second thead tr:first-child{     
         border-bottom: 2px solid purple;
     }
-    
-    table.third thead tr :first-child, table.third thead tr :nth-child(even), table.third thead tr:last-child{
+    table.third thead{
         background-color: lightgreen;
+    }
+    table.third thead tr :first-child, table.third thead tr :nth-child(even), table.third thead tr:last-child{
         border-bottom: 2px solid orangered;
     }
     
