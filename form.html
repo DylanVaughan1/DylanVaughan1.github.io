@@ -56,7 +56,7 @@
             </select>
             <br>
             <label for="Starting_Date">Starting Date</label>
-            <input type="date" name="Starting_Date" id ="Starting_Date">
+            <input type="date" name="Starting_Date" id ="Starting_Date" required> 
             <br>
             <label for="Tickets_For_Guests">Tickets for Guests</label>
             <input type="number" name="Tickets_For_Guests" id="Tickets_For_Guests"
@@ -76,10 +76,13 @@
         <input type="checkbox" name="Email" id="Email"><br>
         <label for="Friend_or_Colleague">Friend or Colleague</label>
         <input type="checkbox" name="Friend_or_Colleague" id="Friend_or_Colleague"><br>
-
-
     </fieldset>
-
+    <fieldset>
+        <legend>Comments</legend>
+        <input type="text" name="Comments" id="Comments"
+        placeholder="If you have any comments, please enter them here"
+        >
+    </fieldset>
     </form>
     
 </body>
